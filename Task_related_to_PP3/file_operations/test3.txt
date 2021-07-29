@@ -1,0 +1,8 @@
+This is another way of creating a file..
+this is not a standerd way, but we can try this..
+'%%writefile' is a command which help to create a file,
+if file is not exist, it will create a new file as given name,
+and if file is avaliable, it will overwrite this file..
+# this will try to create the file using magic cell of jupyter notebook.
+# Magic cells are avaliable for jupyter notebook, 
+# you can't create file like this using any other IDE

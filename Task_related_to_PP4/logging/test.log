@@ -1,0 +1,15 @@
+2021-07-14 17:35:40,278 This is the 404 error found..
+2021-07-14 17:35:40,331 error has occured..
+2021-07-14 17:35:40,331 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-9-83ede9487944>", line 5, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2021-07-14 17:35:40,489 This is my error log
+2021-07-14 17:35:40,490 This is my exception log
+NoneType: None
+2021-07-14 17:35:40,491 This is my critical log
+2021-07-14 17:36:47,863 This is my error log
+2021-07-14 17:36:47,863 This is my exception log
+NoneType: None
+2021-07-14 17:36:47,864 This is my critical log

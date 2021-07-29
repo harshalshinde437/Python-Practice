@@ -1,0 +1,48 @@
+root - 2021-07-15 05:48:23,515 - INFO This is my first test code for log
+user1 - 2021-07-15 05:48:25,210 - WARNING This is the warning for user one
+user2 - 2021-07-15 05:48:25,215 - DEBUG This is a debug for logger two
+user2 - 2021-07-15 05:48:25,217 - INFO This is the info for logger two
+user3 - 2021-07-15 05:48:25,219 - CRITICAL This is the critical for logger three
+parso.cache - 2021-07-15 11:10:01,961 - DEBUG pickle loaded: c:\users\harshal\appdata\local\programs\python\python37\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+parso.cache - 2021-07-15 11:10:02,070 - DEBUG pickle loaded: c:\users\harshal\appdata\local\programs\python\python37\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+parso.python.diff - 2021-07-15 11:16:39,754 - DEBUG diff parser start
+parso.python.diff - 2021-07-15 11:16:39,754 - DEBUG line_lengths old: 1; new: 1
+parso.python.diff - 2021-07-15 11:16:39,759 - DEBUG -> code[replace] old[1:1] new[1:1]
+parso.python.diff - 2021-07-15 11:16:39,763 - DEBUG parse_part from 1 to 1 (to 0 in part parser)
+parso.python.diff - 2021-07-15 11:16:39,763 - DEBUG diff parser end
+parso.python.diff - 2021-07-15 11:32:20,957 - DEBUG diff parser start
+parso.python.diff - 2021-07-15 11:32:20,958 - DEBUG line_lengths old: 1; new: 2
+parso.python.diff - 2021-07-15 11:32:20,961 - DEBUG -> code[replace] old[1:1] new[1:2]
+parso.python.diff - 2021-07-15 11:32:20,968 - DEBUG parse_part from 1 to 2 (to 1 in part parser)
+parso.python.diff - 2021-07-15 11:32:20,972 - DEBUG diff parser end
+parso.python.diff - 2021-07-15 11:32:24,850 - DEBUG diff parser start
+parso.python.diff - 2021-07-15 11:32:24,857 - DEBUG line_lengths old: 2; new: 2
+parso.python.diff - 2021-07-15 11:32:24,862 - DEBUG -> code[equal] old[1:1] new[1:1]
+parso.python.diff - 2021-07-15 11:32:24,866 - DEBUG parse_part from 1 to 2 (to 1 in part parser)
+parso.python.diff - 2021-07-15 11:32:24,868 - DEBUG -> code[replace] old[2:2] new[2:2]
+parso.python.diff - 2021-07-15 11:32:24,873 - DEBUG diff parser end
+parso.python.diff - 2021-07-15 11:32:28,609 - DEBUG diff parser start
+parso.python.diff - 2021-07-15 11:32:28,609 - DEBUG line_lengths old: 2; new: 2
+parso.python.diff - 2021-07-15 11:32:28,616 - DEBUG -> code[equal] old[1:1] new[1:1]
+parso.python.diff - 2021-07-15 11:32:28,618 - DEBUG parse_part from 1 to 2 (to 1 in part parser)
+parso.python.diff - 2021-07-15 11:32:28,623 - DEBUG -> code[replace] old[2:2] new[2:2]
+parso.python.diff - 2021-07-15 11:32:28,626 - DEBUG diff parser end
+parso.python.diff - 2021-07-15 11:32:28,991 - DEBUG diff parser start
+parso.python.diff - 2021-07-15 11:32:28,991 - DEBUG line_lengths old: 2; new: 2
+parso.python.diff - 2021-07-15 11:32:28,999 - DEBUG -> code[equal] old[1:1] new[1:1]
+parso.python.diff - 2021-07-15 11:32:29,003 - DEBUG parse_part from 1 to 2 (to 1 in part parser)
+parso.python.diff - 2021-07-15 11:32:29,007 - DEBUG -> code[replace] old[2:2] new[2:2]
+parso.python.diff - 2021-07-15 11:32:29,010 - DEBUG diff parser end
+parso.python.diff - 2021-07-15 11:32:33,149 - DEBUG diff parser start
+parso.python.diff - 2021-07-15 11:32:33,149 - DEBUG line_lengths old: 2; new: 2
+parso.python.diff - 2021-07-15 11:32:33,156 - DEBUG -> code[equal] old[1:1] new[1:1]
+parso.python.diff - 2021-07-15 11:32:33,158 - DEBUG parse_part from 1 to 2 (to 1 in part parser)
+parso.python.diff - 2021-07-15 11:32:33,167 - DEBUG -> code[replace] old[2:2] new[2:2]
+parso.python.diff - 2021-07-15 11:32:33,170 - DEBUG diff parser end
+parso.cache - 2021-07-15 11:32:33,410 - DEBUG pickle loaded: c:\users\harshal\appdata\local\programs\python\python37\lib\typing.py
+parso.cache - 2021-07-15 11:32:33,440 - DEBUG pickle loaded: c:\users\harshal\appdata\local\programs\python\python37\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+parso.python.diff - 2021-07-15 11:33:05,077 - DEBUG diff parser start
+parso.python.diff - 2021-07-15 11:33:05,078 - DEBUG line_lengths old: 2; new: 1
+parso.python.diff - 2021-07-15 11:33:05,082 - DEBUG -> code[replace] old[1:2] new[1:1]
+parso.python.diff - 2021-07-15 11:33:05,084 - DEBUG parse_part from 1 to 1 (to 0 in part parser)
+parso.python.diff - 2021-07-15 11:33:05,091 - DEBUG diff parser end

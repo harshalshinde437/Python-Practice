@@ -1,0 +1,7 @@
+Hello... 
+My name is Harshal Shinde... 
+How are you all homies???
+Let's Play python quiz
+This a the data added after the opening file in 'r+' mode
+Welcome again.. 
+this is new writeline..

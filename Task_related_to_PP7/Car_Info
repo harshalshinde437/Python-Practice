@@ -1,0 +1,54 @@
+
+Owner Name: Brian O'conor
+Car Name: Toyota Supra
+Type: RWD
+================= Engine =============
+Engine Type: 2JZ-GTE 3.0 Turbo Charged
+Fuel Type: Petrol
+Noise Level : 6
+
+================= Tyres ==============
+Branch: Falken Tyres
+Belted bias: True
+Optimal pressure: 38.0
+
+=============== Body Frame ===========
+Size: Sports Sedan
+
+--------------------------------------
+
+Owner Name: Domnic Torreto
+Car Name: Honda Civic
+Type: FWD
+================= Engine =============
+Engine Type: VTEC 1.8 lt
+Fuel Type: Petrol
+Noise Level : 4
+
+================= Tyres ==============
+Branch: Continental
+Belted bias: True
+Optimal pressure: 36.0
+
+=============== Body Frame ===========
+Size: Sedan Medium
+
+--------------------------------------
+
+Owner Name: Brian O'conor
+Car Name: Nissan GT-R R34 Skyline
+Type: RWD
+================= Engine =============
+Engine Type: Nissan RB26 Twin Turbo
+Fuel Type: Petrol
+Noise Level : 6
+
+================= Tyres ==============
+Branch: Toyo Tyres
+Belted bias: True
+Optimal pressure: 38.0
+
+=============== Body Frame ===========
+Size: Sports Sedan
+
+--------------------------------------
